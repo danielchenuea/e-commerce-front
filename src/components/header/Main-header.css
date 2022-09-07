@@ -1,0 +1,53 @@
+.logo {
+  left: 0px;
+  margin-left: 10%;
+}
+
+.logoTxt {
+  /* color: red; */
+  font-weight: bold;
+  margin-left: 10px;
+  /* left: 600px; */
+}
+
+.lightButton {
+  position: absolute;
+  right: 0;
+}
+
+.infoButton {
+  position: absolute;
+  right: 0;
+  margin-right: calc(0% + 50px);
+}
+
+.userButton {
+  position: absolute;
+  right: 0;
+  margin-right: calc(0% + 100px);
+}
+
+.userBox {
+  display: flex;
+  flex-direction: column;
+  background-color: red;
+}
+
+.cartIcon {
+  position: absolute;
+  right: 0;
+  margin-right: 280px;
+}
+
+.userButtonLogin {
+  position: absolute;
+  right: 0;
+  margin-right: 100px;
+}
+
+
+.card {
+  height: 100px;
+  width: 300px;
+}
+
