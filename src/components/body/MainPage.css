@@ -1,0 +1,38 @@
+.mainbody {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  flex-direction: column;
+  /* justify-content: center; */
+}
+
+.maingrid {
+  align-self: center;
+  /* background-color: grey; */
+  width: 70%;
+}
+
+.banner {
+  height: 500px;
+}
+
+.produtos {
+  font-size: 50px;
+  color: #228BE6;
+  font-weight: bold;
+}
+
+.carousel {
+  height: 100%;
+  /* margin: 0; */
+}
+
+.cell {
+  margin-top: 20px;
+  /* background-color: white; */
+  height: 380px;
+}
+
+.interncell {
+  border: 2px;
+}
